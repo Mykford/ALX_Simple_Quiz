@@ -1,5 +1,5 @@
 function checkAnswer(){
-    let correctAnswer ="4";
+    const correctAnswer ="4";
     const feedback = document.getElementById("feedback");
     
     const userAnswer = document.querySelector(
