@@ -9,7 +9,7 @@ function checkAnswer(){
         feedback.textContent = "Correct! Well done.";
         
     } else {
-        feedback.textContent = "Incorrect. Try again!";
+        feedback.textContent = "Thats incorrect. Try again!";
     }
 }
 const submitButton = document.getElementById("submit-answer");
